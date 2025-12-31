@@ -6,11 +6,11 @@ const CONFIG = {
     desc: ' Hy vọng rằng trong năm tới em và anh sẽ đồng hành cùng nhau trên nhiều hành trình quan trọng của nhau, vì ta là một đôi mà, em có yêu anh không? ',
     btnYes: 'Em yêu anh ^.^',
     btnNo: 'Sao phải yêu m:)',
-    question:'T mới học nè thấy hay chưa',
-    btnReply: 'Nhập thử j đuy',
-    reply: 'Mốt đi cast model dùm t, thiệc 💪',
-    mess: 'Tuyệt cú mèo! Qùa sinh nhật công nghệ nè',
-    messDesc: 'BÀI HÁT MỪNG SINH NHỰT NÈ!',
-    btnAccept: 'Nhấp vô!!!',
-    messLink: 'https://www.youtube.com/watch?v=bJi8SWxFJcg' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question:'Em có nhớ anh nhiều không:)',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Em yêu chồng em nhiều nhất trên đời',
+    mess: 'Anh biết mà 🥰. Anh yêu em nhiều lắm vợ ơi ^.^',
+    messDesc: 'Chúc em năm mới thật nhiều niềm vui, và ngày càng yêu anh nhiều hơn nữa em nhé!',
+    btnAccept: 'Dạaa <3',
+    messLink: 'https://docs.google.com/document/d/16zJWItnYVv7EbEjCIqclxfQOcIxBA1lB7U-MkQptECI/edit?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
